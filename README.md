@@ -222,6 +222,6 @@ Même un projet simple permet de comprendre :
 
 ## Conclusion
 
-Ce projet est volontairement simple.
+Ce projet est volontairement simple.  
 Son intérêt principal est pédagogique : montrer comment répartir proprement les responsabilités entre le  
 Linux embarqué et le microcontrôleur de l’UNO Q.
