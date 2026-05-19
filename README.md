@@ -225,3 +225,8 @@ Même un projet simple permet de comprendre :
 Ce projet est volontairement simple.  
 Son intérêt principal est pédagogique : montrer comment répartir proprement les responsabilités entre le  
 Linux embarqué et le microcontrôleur de l’UNO Q.
+
+## Remerciements
+
+Ce petit projet pédagogique a bénéficié d’échanges techniques avec ChatGPT (OpenAI),  
+notamment sur la séparation des rôles entre MPU et MCU, l’utilisation du Bridge et l’amélioration générale du projet.
