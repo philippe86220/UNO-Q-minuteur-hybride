@@ -226,6 +226,14 @@ Ce projet est volontairement simple.
 Son intérêt principal est pédagogique : montrer comment répartir proprement les responsabilités entre le  
 Linux embarqué et le microcontrôleur de l’UNO Q.
 
+---
+
+## Capture d'écran
+
+![Aperçu](/docs/screenshot.jpg)
+
+---
+
 ## Remerciements
 
 Ce petit projet pédagogique a bénéficié d’échanges techniques avec ChatGPT (OpenAI),  
