@@ -77,7 +77,8 @@ def loop():
             return
 
         ecoule = int(timer.elapsed())
-        restant = int(timer.remaining())
+        restant = max(0, timer.duree_s - ecoule)
+        #restant = int(timer.remaining())
         current = (ecoule, restant)
 
         if current != last_sent:
